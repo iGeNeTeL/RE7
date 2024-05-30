@@ -22,6 +22,12 @@ Simple tool designed to provide various cheats and modifications for Resident Ev
 2. Run the tool.
 3. Enjoy !
 
+
+## Note
+This is my first C++ project/tool, so occasional bugs may occur.
+
+
+
 ## Important
 The tool is completely safe and not Contain any Viruses or anything like that 
 Although some antivirus might give false positives and This occurs because the tool modifies memory values (Through Windows API) , which is a process that may trigger certain antivirus algorithms. 
