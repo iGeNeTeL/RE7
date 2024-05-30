@@ -21,7 +21,7 @@ Simple tool designed to provide various cheats and modifications for Resident Ev
 
 
 ## Note
-This is my first C++ project/tool, so occasional bugs may occur.
+This is my first C++ project/tool, so it's not 100% perfect, and there might be some occasional bugs.
 
 
 
