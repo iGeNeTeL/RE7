@@ -9,7 +9,7 @@ Simple tool designed to provide various cheats and modifications for Resident Ev
   
 - **Field of View (FOV) Adjustment:** Change the field of view to customize the viewing angle.
   
-- **Teleportation:** Move the player character to different locations within the game.
+- **Teleport:** Move the player character to different locations within the game.
   
 - **Money Cheat (Nightmare DLC):** Adjust the amount of in-game currency available to the player in Nightmare DLC.
   
