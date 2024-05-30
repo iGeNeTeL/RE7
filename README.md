@@ -1,4 +1,4 @@
-# Resident Evil 7 Tool / Trainer
+# Resident Evil 7 Tool / Trainer (By GeNeTeL)
 
 Simple tool designed to provide various cheats and modifications for Resident Evil 7 biohazard.
 
