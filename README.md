@@ -13,11 +13,11 @@ Simple tool designed to provide various cheats and modifications for Resident Ev
 - **Hidden Card Value Adjustment (21 DLC):** Modify the hidden card value for both the player and enemy in the 21 DLC.
 
 ## Installation
-1. ***Download*** the latest version from the [Releases](https://github.com/iGeNeTeL/RE7/releases) page.
-2. ***Extract*** the files to a location of your choice.
+1. **Download** the latest version from the [Releases](https://github.com/iGeNeTeL/RE7/releases) page.
+2. **Extract** the files.
 3. Launch Resident Evil 7 biohazard.
-4. ***Run*** the Tool (RE7Tool.exe) as administrator.
-5. ***Enjoy !***
+4. **Run** the Tool (RE7Tool.exe) as administrator.
+5. **Enjoy !**
 
 
 ## Note
