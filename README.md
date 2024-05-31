@@ -3,6 +3,8 @@
 Simple tool designed to provide various cheats and modifications for Resident Evil 7 biohazard.
 
 ## Features
+- **Completely Free:** :)
+
 - **Ammunition Cheat:** Modify the amount of ammunition available in the game.
   
 - **Health Cheat:** Adjust the player's health value.
@@ -17,7 +19,7 @@ Simple tool designed to provide various cheats and modifications for Resident Ev
   
 - **Instant Win Mode (Jack 55Th DLC):** Enable instant win in the Jack's 55th Birthday DLC.
   
-- **Hidden Card Value Adjustment (21 DLC):** Modify the hidden card value for both the player and enemy in the 21 DLC.
+- **Cards Value Adjustment (21 DLC):** Modify the hidden card value for both the player and enemy in the 21 DLC.
 
 ## Installation
 1. **Download** the latest version from the [Releases](https://github.com/iGeNeTeL/RE7/releases) page.
@@ -37,9 +39,7 @@ This is my first C++ project/tool, so it's not 100% perfect, and there might be 
 
 
 ## Important
-The tool is completely safe and not Contain any Viruses or anything like that 
-Although some antivirus might give false positives and This occurs because the tool modifies memory values (Through Windows API) , which is a process that may trigger certain antivirus algorithms. 
+The tool is completely safe and does not contain any viruses or anything like that. Although some antivirus programs might give false positives, this occurs because the tool modifies memory values for the game process (to apply the cheats), which may trigger certain antivirus algorithms. 
 So I assure you that these warnings are false alarms and do not indicate any actual threat to your system.
-
 
 This tool is for educational and entertainment purposes only. Use it responsibly and at your own risk.
