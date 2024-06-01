@@ -1,7 +1,7 @@
 # Resident Evil 7 Tool / Trainer (By GeNeTeL)
 
 Simple tool designed to provide various cheats and modifications for Resident Evil 7 biohazard.
-
+<br> [Showcase Video](https://www.youtube.com/watch?v=U1rqUe93VSs)
 ## Features
 - **Completely Free:** :)
 
@@ -20,6 +20,11 @@ Simple tool designed to provide various cheats and modifications for Resident Ev
 - **Instant Win Mode (Jack 55Th DLC):** Enable instant win in the Jack's 55th Birthday DLC.
   
 - **Cards Value Adjustment (21 DLC):** Modify the hidden card value for both the player and enemy in the 21 DLC.
+
+
+
+
+
 
 ## Installation
 1. **Download** the latest version from the [Releases](https://github.com/iGeNeTeL/RE7/releases) page.
