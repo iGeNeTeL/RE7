@@ -21,6 +21,9 @@ Simple tool designed to provide various cheats and modifications for Resident Ev
   
 - **Cards Value Adjustment (21 DLC):** Modify the hidden card value for both the player and enemy in the 21 DLC.
 
+- **Player Speed Modification:** Adjust the player movement speed.
+
+- **Items Adjustment:** Modify the value of the items that you have in the game.
 
 
 
