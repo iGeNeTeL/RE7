@@ -25,6 +25,7 @@ Simple tool designed to provide various cheats and modifications for Resident Ev
 
 - **Items Adjustment:** Modify the value of the items that you have in the game.
 
+- **Wall Hack:** See nearby items even through walls.
 
 
 
