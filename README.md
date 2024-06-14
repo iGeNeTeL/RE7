@@ -27,6 +27,9 @@ Simple tool designed to provide various cheats and modifications for Resident Ev
 
 - **Wall Hack:** See nearby items even through walls.
 
+- **Damage Adjustment:** Change the damage of your weapons to anything you want. You can even increase it to a high number so you can kill all enemies with one hit.
+
+- **Score Adjustment (Nightmare DLC):** Change your score in Nightmare DLC
 
 
 
