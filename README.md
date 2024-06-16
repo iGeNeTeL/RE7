@@ -31,6 +31,10 @@ Simple tool designed to provide various cheats and modifications for Resident Ev
 
 - **Score Adjustment (Nightmare DLC):** Change your score in Nightmare DLC
 
+- **Taken Damage (21 DLC):** Modify the Taken Damage value for both the player and enemy in the 21 DLC.
+
+- **NightVision Overlay (Not A Hero DLC):** Enable and Disable NightVision Overlay any time you want in Not A Hero DLC.
+
 
 
 ## Installation
