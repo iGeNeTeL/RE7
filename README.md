@@ -12,14 +12,6 @@ Simple tool designed to provide various cheats and modifications for Resident Ev
 - **Field of View (FOV) Adjustment:** Change the field of view to customize the viewing angle.
   
 - **Teleport:** Move the player character to different locations within the game.
-  
-- **Money Cheat (Nightmare DLC):** Adjust the amount of in-game currency available to the player in Nightmare DLC.
-  
-- **Oxygen Cheat (Not A Hero DLC):** Modify the player's oxygen level.
-  
-- **Instant Win Mode (Jack 55Th DLC):** Enable instant win in the Jack's 55th Birthday DLC.
-  
-- **Cards Value Adjustment (21 DLC):** Modify the hidden card value for both the player and enemy in the 21 DLC.
 
 - **Player Speed Modification:** Adjust the player movement speed.
 
@@ -29,13 +21,19 @@ Simple tool designed to provide various cheats and modifications for Resident Ev
 
 - **Damage Adjustment:** Change the damage of your weapons to anything you want. You can even increase it to a high number so you can kill all enemies with one hit.
 
+- **Money Cheat (Nightmare DLC):** Adjust the amount of in-game currency available to the player in Nightmare DLC.
+
 - **Score Adjustment (Nightmare DLC):** Change your score in Nightmare DLC
+
+- **Cards Value Adjustment (21 DLC):** Modify the hidden card value for both the player and enemy in the 21 DLC.
 
 - **Taken Damage (21 DLC):** Modify the Taken Damage value for both the player and enemy in the 21 DLC.
 
+- **Oxygen Cheat (Not A Hero DLC):** Modify the player's oxygen level.
+
 - **NightVision Overlay (Not A Hero DLC):** Enable and Disable NightVision Overlay any time you want in Not A Hero DLC.
 
-
+- **Instant Win Mode (Jack 55Th DLC):** Enable instant win in the Jack's 55th Birthday DLC.
 
 ## Installation
 1. **Download** the latest version from the [Releases](https://github.com/iGeNeTeL/RE7/releases) page.
