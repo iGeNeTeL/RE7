@@ -76,8 +76,8 @@ This tool is for educational and entertainment purposes only. Use it responsibly
 
 # هاك / تول لـ لعبة رزدينت ايفل 7 <br/> (تم تطويره من قبل جنتل GeNeTeL)
 
-تول او هاك بسيط مصمم لتعديل و اعطائك بعض الامور داخل لعبة رزدينت ايفل 7.
-<br> [فيديو استعراض](https://www.youtube.com/watch?v=U1rqUe93VSs)
+تول او هاك بسيط مصمم لتعديل و اعطائك بعض الامور داخل لعبة رزدينت ايفل 7.<br/>
+ [فيديو استعراض](https://www.youtube.com/watch?v=U1rqUe93VSs)
 ## المميزات
 - **مجاني بالكامل:** :)
 
