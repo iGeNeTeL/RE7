@@ -35,6 +35,10 @@ Simple tool designed to provide various cheats and modifications for Resident Ev
 
 - **Instant Win Mode (Jack 55Th DLC):** Enable instant win in the Jack's 55th Birthday DLC.
 
+- **Text Color:**  Customize the text color for enhanced visibility and a more personalized experience.
+
+- **Rainbow Text Mode:** At startup, you'll be asked if you want to enable it. If activated, the text color will cycle and change continuously.
+
 ![Features](https://github.com/iGeNeTeL/RE7/blob/main/Images/Features.jpg)
 
 ## Installation
