@@ -5,6 +5,10 @@ Simple tool designed to provide various cheats and modifications for Resident Ev
 ## Features
 - **Completely Free:** :)
 
+- **Full Support:** The tool is compatible with both the 'Ray Tracing Version (DirectX 12)' and the 'Non-Ray Tracing Version (DirectX 11)'.
+  
+- **Multiple Cheats:** You can run multiple Cheats at same time, such as unlimited ammo, unlimited health, FOV etc..... Additionally, you can disable all active cheats with the 'Stop All Options' Option, in the main menu.
+
 - **Ammunition Cheat:** Modify the amount of ammunition available in the game.
   
 - **Health Cheat:** Adjust the player's health value.
@@ -37,7 +41,7 @@ Simple tool designed to provide various cheats and modifications for Resident Ev
 
 - **Text Color:**  Customize the text color for enhanced visibility and a more personalized experience.
 
-- **Rainbow Text Mode:** At startup, you'll be asked if you want to enable it. If activated, the text color will cycle and change continuously.
+- **Rainbow Text Mode:** When It Enabled the text color will cycle and change continuously.
 
 ![Features](https://github.com/iGeNeTeL/RE7/blob/main/Images/Features.jpg)
 
@@ -85,6 +89,10 @@ This tool is for educational and entertainment purposes only. Use it responsibly
 ## المميزات
 - **مجاني بالكامل:** :)
 
+- **تعدد الخيارات:** يمكنك تشغيل عددة خيارات في نفس الوقت مثل خيار الرصاص , الهيلث , مجال الرؤية الخ.... و في اي وقت يمكنك ايقاف كل هاذي الخيارات عن طريق خيار "Stop All Options" الموجود في القائمة الرئيسية للتول
+  
+- **دعم كامل:** هاذي التول متوافقه مع الأصدارين من اللعبة DX11/DX12
+  
 - **تعديل الرصاص:** تعديل الرصاص لأي سلاح عندك داخل اللعبة.
   
 - **تعديل الهيلث:** تعديل قيمة الهيلث لأي قيمة تريدها.
@@ -117,7 +125,7 @@ This tool is for educational and entertainment purposes only. Use it responsibly
 
 - **لون النصوص:** تغير لون النصوص داخل البرنامج لأي لون تريده لتخصيص تجربة المستخدم
 
-- **وضع الالوان المتغيرة للنصوص:** عند بدء تشغيل البرنامج سيتم سؤالك ان كنت ترغب في تفعيل هذا الوضع, و ان تم تفعيله سوف تبدأ الوان النصوص بالتغير بشكل مستمر
+- **وضع الالوان المتغيرة للنصوص:** عند تفعيل هذا الوضع سوف تبدأ الوان النصوص بالتغير بشكل مستمر
   
 ![المميزات](https://github.com/iGeNeTeL/RE7/blob/main/Images/Features%20Arabic.jpg)
 
