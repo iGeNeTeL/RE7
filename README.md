@@ -7,7 +7,7 @@ Simple tool designed to provide various cheats and modifications for Resident Ev
 
 - **Full Support:** The tool is compatible with both the 'Ray Tracing Version (DirectX 12)' and the 'Non-Ray Tracing Version (DirectX 11)'.
   
-- **Multiple Cheats:** You can run multiple Cheats at same time, such as unlimited ammo, unlimited health, FOV etc..... Additionally, you can disable all active cheats with the 'Stop All Options' Option, in the main menu.
+- **Multiple Cheats:** You can run multiple Cheats at same time, such as unlimited ammo, unlimited health, FOV etc..... Additionally, you can disable all active cheats with the 'Stop All Active Cheats' Option, in the main menu.
 
 - **Ammunition Cheat:** Modify the amount of ammunition available in the game.
   
@@ -24,6 +24,12 @@ Simple tool designed to provide various cheats and modifications for Resident Ev
 - **Wall Hack:** See nearby items even through walls.
 
 - **Damage Adjustment:** Change the damage of your weapons to anything you want. You can even increase it to a high number so you can kill all enemies with one hit.
+
+- **Size:** Adjust the size of all enemies to any value you desire.
+
+- **Freeze:** Freeze the position of all enemies, preventing them from moving.
+
+- **Reload Speed:** Customize the reload speed of your guns to your preference.
 
 - **Money Cheat (Nightmare DLC):** Adjust the amount of in-game currency available to the player in Nightmare DLC.
 
@@ -89,7 +95,7 @@ This tool is for educational and entertainment purposes only. Use it responsibly
 ## المميزات
 - **مجاني بالكامل:** :)
 
-- **تعدد الخيارات:** يمكنك تشغيل عددة خيارات في نفس الوقت مثل خيار الرصاص , الهيلث , مجال الرؤية الخ.... و في اي وقت يمكنك ايقاف كل هاذي الخيارات عن طريق خيار "Stop All Options" الموجود في القائمة الرئيسية للتول
+- **تعدد الخيارات:** يمكنك تشغيل عددة خيارات في نفس الوقت مثل خيار الرصاص , الهيلث , مجال الرؤية الخ.... و في اي وقت يمكنك ايقاف كل هاذي الخيارات عن طريق خيار "Stop All Active Cheats" الموجود في القائمة الرئيسية للتول
   
 - **دعم كامل:** هاذي التول متوافقه مع الأصدارين من اللعبة DX11/DX12
   
@@ -108,6 +114,12 @@ This tool is for educational and entertainment purposes only. Use it responsibly
 - **الرؤية من خلف الجدران:** رؤية الموارد القريبة حتى من خلال الجدران.
 
 - **تعديل الضرر:** تعديل قيمة الضرر الخاصة ب اسلحتك لأي قيمة تريدها , و يمكنك ايضا رفع القيمة الى رقم عالي ليصبح بأمكانك قتل جميع الاعداء ب ضربة واحدة.
+
+- **الحجم:** قم بتغيير حجم جميع الأعداء إلى أي قيمة تريدها.
+
+- **التجميد:** قم بتجميد مواقع جميع الأعداء و امنعهم من الحركة.
+
+- **سرعة التعشيق:** قم بتخصيص سرعة التعشيق لأسلحتك حسب تفضيلك.
 
 - **تعديل الفلوس (أضافة Nightmare):** تعديل عدد العملات او الفلوس المتوفرة لديك في أضافة Nightmare.
 
