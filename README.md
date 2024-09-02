@@ -49,7 +49,7 @@ Simple tool designed to provide various cheats and modifications for Resident Ev
 
 - **Rainbow Text Mode:** When It Enabled the text color will cycle and change continuously.
 
-![Features](https://github.com/iGeNeTeL/RE7/blob/main/Images/Features.jpg)
+![Features](https://github.com/iGeNeTeL/RE7/blob/main/Images/Features-New.jpg)
 
 ## Installation
 1. **Download** the latest version from the [Releases](https://github.com/iGeNeTeL/RE7/releases) page.
@@ -139,7 +139,7 @@ This tool is for educational and entertainment purposes only. Use it responsibly
 
 - **وضع الالوان المتغيرة للنصوص:** عند تفعيل هذا الوضع سوف تبدأ الوان النصوص بالتغير بشكل مستمر
   
-![المميزات](https://github.com/iGeNeTeL/RE7/blob/main/Images/Features%20Arabic.jpg)
+![المميزات](https://github.com/iGeNeTeL/RE7/blob/main/Images/Features%20Arabic-New.jpg)
 
 ## خطوات التثبيت
 1. **تحميل** اخر اصدار من التول عن طريقة صفحة الـ[Releases](https://github.com/iGeNeTeL/RE7/releases).
