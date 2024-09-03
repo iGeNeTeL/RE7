@@ -1,5 +1,7 @@
 # Resident Evil 7 Tool / Trainer (By GeNeTeL جنتل)
 
+> This Tool Version does not include a GUI (Graphical User Interface). If you want the GUI version, click [HERE](https://github.com/iGeNeTeL/RE7GUI).
+
 Simple tool designed to provide various cheats and modifications for Resident Evil 7 biohazard.
 <br> [Showcase Video](https://www.youtube.com/watch?v=rj95QM2sAis)
 ## Features
@@ -89,6 +91,9 @@ This tool is for educational and entertainment purposes only. Use it responsibly
 ----------------------------------------------------------------------------
 
 # هاك / تول لـ لعبة رزدينت ايفل 7 <br/> (تم تطويره من قبل جنتل GeNeTeL)
+
+> هاذي النسخة من التول لا تحتوي على واجهة رسومية (GUI). إذا كنت ترغب في النسخة التي تحتوي على واجهة رسومية، اضغط [هنا](https://github.com/iGeNeTeL/RE7GUI).
+
 
 تول او هاك بسيط مصمم لتعديل و اعطائك بعض الامور داخل لعبة رزدينت ايفل 7.<br/>
  [فيديو استعراض](https://www.youtube.com/watch?v=rj95QM2sAis)
